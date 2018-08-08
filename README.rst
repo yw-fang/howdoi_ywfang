@@ -1,3 +1,10 @@
+The master branch is forked from B. Gleitzman's howdoi repository in
+August 8th, 2018.
+The read_code branch is a copy of master branch with many personal modifications
+during the code reading.
+
+Y.-W. FANG
+
 howdoi
 ====================================================
 
